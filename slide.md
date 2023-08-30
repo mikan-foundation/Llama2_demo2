@@ -226,4 +226,4 @@ _color: black
 `pip install googletrans==4.0.0-rc1`
 
 `translate-jp.py`
-![width:700px](images/program6.png)
+![width:600px](images/program6.png)
